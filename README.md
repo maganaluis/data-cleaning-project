@@ -1,4 +1,4 @@
-# CS513-FinalProject
+# Data Cleaning Project
 
 ## Usage: 
 To replicate the Data Cleaning workflow you can open the jupyter notebook, and run all cells. The notebook uses standard anaconda packages to clean the data, so given that you have an Python Anaconda distribution, you should be able to run it. The notebook will create farmers.db which you can load into sqlite3 and this should contain the clean Farmers dataset.
